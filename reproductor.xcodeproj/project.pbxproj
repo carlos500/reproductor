@@ -14,6 +14,16 @@
 		82DD138B1CDCC8DC007AAEE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13891CDCC8DC007AAEE2 /* LaunchScreen.storyboard */; };
 		82DD13961CDCC8DC007AAEE2 /* reproductorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DD13951CDCC8DC007AAEE2 /* reproductorTests.swift */; };
 		82DD13A11CDCC8DC007AAEE2 /* reproductorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DD13A01CDCC8DC007AAEE2 /* reproductorUITests.swift */; };
+		82DD13B91CDCF6FF007AAEE2 /* Bat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13AF1CDCF6FF007AAEE2 /* Bat.jpg */; };
+		82DD13BA1CDCF6FF007AAEE2 /* Batman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B01CDCF6FF007AAEE2 /* Batman.mp3 */; };
+		82DD13BB1CDCF6FF007AAEE2 /* Dead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B11CDCF6FF007AAEE2 /* Dead.jpg */; };
+		82DD13BC1CDCF6FF007AAEE2 /* Deadpool.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B21CDCF6FF007AAEE2 /* Deadpool.mp3 */; };
+		82DD13BD1CDCF6FF007AAEE2 /* Mis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B31CDCF6FF007AAEE2 /* Mis.jpg */; };
+		82DD13BE1CDCF6FF007AAEE2 /* Mission.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B41CDCF6FF007AAEE2 /* Mission.mp3 */; };
+		82DD13BF1CDCF6FF007AAEE2 /* Pira.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B51CDCF6FF007AAEE2 /* Pira.jpg */; };
+		82DD13C01CDCF6FF007AAEE2 /* Pirates.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B61CDCF6FF007AAEE2 /* Pirates.mp3 */; };
+		82DD13C11CDCF6FF007AAEE2 /* Star.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B71CDCF6FF007AAEE2 /* Star.jpg */; };
+		82DD13C21CDCF6FF007AAEE2 /* Starwars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82DD13B81CDCF6FF007AAEE2 /* Starwars.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		82DD139C1CDCC8DC007AAEE2 /* reproductorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = reproductorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82DD13A01CDCC8DC007AAEE2 /* reproductorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reproductorUITests.swift; sourceTree = "<group>"; };
 		82DD13A21CDCC8DC007AAEE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82DD13AF1CDCF6FF007AAEE2 /* Bat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bat.jpg; path = resources/Bat.jpg; sourceTree = SOURCE_ROOT; };
+		82DD13B01CDCF6FF007AAEE2 /* Batman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Batman.mp3; path = resources/Batman.mp3; sourceTree = SOURCE_ROOT; };
+		82DD13B11CDCF6FF007AAEE2 /* Dead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dead.jpg; path = resources/Dead.jpg; sourceTree = SOURCE_ROOT; };
+		82DD13B21CDCF6FF007AAEE2 /* Deadpool.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Deadpool.mp3; path = resources/Deadpool.mp3; sourceTree = SOURCE_ROOT; };
+		82DD13B31CDCF6FF007AAEE2 /* Mis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Mis.jpg; path = resources/Mis.jpg; sourceTree = SOURCE_ROOT; };
+		82DD13B41CDCF6FF007AAEE2 /* Mission.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Mission.mp3; path = resources/Mission.mp3; sourceTree = SOURCE_ROOT; };
+		82DD13B51CDCF6FF007AAEE2 /* Pira.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pira.jpg; path = resources/Pira.jpg; sourceTree = SOURCE_ROOT; };
+		82DD13B61CDCF6FF007AAEE2 /* Pirates.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Pirates.mp3; path = resources/Pirates.mp3; sourceTree = SOURCE_ROOT; };
+		82DD13B71CDCF6FF007AAEE2 /* Star.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Star.jpg; path = resources/Star.jpg; sourceTree = SOURCE_ROOT; };
+		82DD13B81CDCF6FF007AAEE2 /* Starwars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Starwars.mp3; path = resources/Starwars.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +117,7 @@
 		82DD137F1CDCC8DC007AAEE2 /* reproductor */ = {
 			isa = PBXGroup;
 			children = (
+				82DD13AE1CDCF4A3007AAEE2 /* resources */,
 				82DD13801CDCC8DC007AAEE2 /* AppDelegate.swift */,
 				82DD13821CDCC8DC007AAEE2 /* ViewController.swift */,
 				82DD13841CDCC8DC007AAEE2 /* Main.storyboard */,
@@ -123,6 +144,23 @@
 				82DD13A21CDCC8DC007AAEE2 /* Info.plist */,
 			);
 			path = reproductorUITests;
+			sourceTree = "<group>";
+		};
+		82DD13AE1CDCF4A3007AAEE2 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				82DD13AF1CDCF6FF007AAEE2 /* Bat.jpg */,
+				82DD13B01CDCF6FF007AAEE2 /* Batman.mp3 */,
+				82DD13B11CDCF6FF007AAEE2 /* Dead.jpg */,
+				82DD13B21CDCF6FF007AAEE2 /* Deadpool.mp3 */,
+				82DD13B31CDCF6FF007AAEE2 /* Mis.jpg */,
+				82DD13B41CDCF6FF007AAEE2 /* Mission.mp3 */,
+				82DD13B51CDCF6FF007AAEE2 /* Pira.jpg */,
+				82DD13B61CDCF6FF007AAEE2 /* Pirates.mp3 */,
+				82DD13B71CDCF6FF007AAEE2 /* Star.jpg */,
+				82DD13B81CDCF6FF007AAEE2 /* Starwars.mp3 */,
+			);
+			name = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +268,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				82DD138B1CDCC8DC007AAEE2 /* LaunchScreen.storyboard in Resources */,
+				82DD13BC1CDCF6FF007AAEE2 /* Deadpool.mp3 in Resources */,
+				82DD13B91CDCF6FF007AAEE2 /* Bat.jpg in Resources */,
+				82DD13BE1CDCF6FF007AAEE2 /* Mission.mp3 in Resources */,
+				82DD13BA1CDCF6FF007AAEE2 /* Batman.mp3 in Resources */,
+				82DD13C11CDCF6FF007AAEE2 /* Star.jpg in Resources */,
 				82DD13881CDCC8DC007AAEE2 /* Assets.xcassets in Resources */,
 				82DD13861CDCC8DC007AAEE2 /* Main.storyboard in Resources */,
+				82DD13BF1CDCF6FF007AAEE2 /* Pira.jpg in Resources */,
+				82DD13C21CDCF6FF007AAEE2 /* Starwars.mp3 in Resources */,
+				82DD13BB1CDCF6FF007AAEE2 /* Dead.jpg in Resources */,
+				82DD13BD1CDCF6FF007AAEE2 /* Mis.jpg in Resources */,
+				82DD13C01CDCF6FF007AAEE2 /* Pirates.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
