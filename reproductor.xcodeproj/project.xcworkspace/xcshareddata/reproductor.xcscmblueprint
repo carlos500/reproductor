@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F2F9623BF2C643CD7274AD90366793AC2466562",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F2F9623BF2C643CD7274AD90366793AC2466562" : 0,
+    "3EB196584602C636E9856451F02D7DF738BF7AF2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C67752D4-2EC7-435B-8ABE-5921FC13AAB9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F2F9623BF2C643CD7274AD90366793AC2466562" : "reproductor\/",
+    "3EB196584602C636E9856451F02D7DF738BF7AF2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "reproductor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "reproductor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/carlos500\/Swift-Lesson-2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EB196584602C636E9856451F02D7DF738BF7AF2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/carlos500\/reproductor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F2F9623BF2C643CD7274AD90366793AC2466562"
+    }
+  ]
+}

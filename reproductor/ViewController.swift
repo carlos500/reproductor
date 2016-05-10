@@ -29,26 +29,35 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         cover.clipsToBounds = true
         slider.value=0.5
     }
-
+    
     @IBAction func play() {
-        if !reproductor.playing
+        if reproductor != nil
         {
-            reproductor.play()
+            if !reproductor.playing
+            {
+                reproductor.play()
+            }
         }
     }
-
+    
     @IBAction func pause() {
-        if reproductor.playing
+        if reproductor != nil
         {
-        reproductor.pause()
+            if reproductor.playing
+            {
+                reproductor.pause()
+            }
         }
     }
     
     @IBAction func stop() {
-        if reproductor.playing
+        if reproductor != nil
         {
-        reproductor.stop()
-        reproductor.currentTime=0
+            if reproductor.playing
+            {
+                reproductor.stop()
+                reproductor.currentTime=0
+            }
         }
     }
     
